@@ -4,6 +4,8 @@ Date: 8/3/2022
 
 ### 1) Install VMware Tools (to copy and patse from host)
 
+Link tutorial: [https://linuxhint.com/install_vmware_tools_ubuntu_debian/](https://linuxhint.com/install_vmware_tools_ubuntu_debian/)
+
 ### 2) Add i386 architecture (to run 32 bit elf)
 
 ```bash
