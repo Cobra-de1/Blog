@@ -139,7 +139,8 @@ git clone https://github.com/niklasb/libc-database
 * You will need to use docker when you want to setup the same environment with the server
 
 ```bash
-sudo apt install -y docker.io
+sudo apt install -y docker.io && \
+sudo apt install -y docker-compose
 ```
 
 ### 6) Add libc source code to gdb
