@@ -143,6 +143,14 @@ sudo apt install -y docker.io && \
 sudo apt install -y docker-compose
 ```
 
+#### =) fidra
+
+* Use for dynamic reversing
+
+```bash
+pip install frida-tools
+```
+
 ### 6) Add libc source code to gdb
 
 * Use when you want to debug deep in libc function like (printf, puts, read, ...), i need to setup this when i learned FSOP attack
