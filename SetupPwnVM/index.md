@@ -143,7 +143,7 @@ sudo apt install -y docker.io && \
 sudo apt install -y docker-compose
 ```
 
-#### =) fidra
+#### +) fidra
 
 * Use for dynamic reversing
 
