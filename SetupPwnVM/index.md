@@ -121,6 +121,8 @@ sudo apt install -y default-jdk default-jre
 
 #### +) radare2
 
+* A disassembler like IDA but in command line
+
 ```bash
 git clone https://github.com/radare/radare2 && \
 cd radare2 && \
@@ -129,6 +131,8 @@ cd ../
 ```
 
 #### +) libc-database
+
+* Use to find version of libc with offset (more libc than web database)
 
 ```bash
 git clone https://github.com/niklasb/libc-database
