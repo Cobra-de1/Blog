@@ -135,7 +135,10 @@ cd ../
 * Use to find version of libc with offset (more libc than web database)
 
 ```bash
-git clone https://github.com/niklasb/libc-database
+git clone https://github.com/niklasb/libc-database && \
+cd libc-database && \
+./get ubuntu && \
+cd ../
 ```
 
 #### +) docker
